@@ -7,6 +7,7 @@ Feel free to add suggestions for new tags to the list as part of your PR! Be sur
 ```
 Abstraction
 Accessibility
+Aggregate Functions
 AI
 Algorithms
 Alias
@@ -55,9 +56,11 @@ Charts
 Chatbots
 Cryptocurrency
 Classes
+Classification
 Cloud Computing
 Code Editors
 Conditionals
+Collations
 Collections
 Colors
 Combinators
@@ -83,9 +86,12 @@ Cybersecurity
 D3
 Dart
 Data
+Data Parallelism
 Data Structures
 Data Types
 Database
+DataLoader
+Datasets
 Date
 Dart Operators
 Debugging
@@ -94,6 +100,7 @@ Deep Learning
 Denoising
 Dependency
 Design
+Deques
 Developer Tools
 Development
 DFS
@@ -136,6 +143,7 @@ Flask
 Flexbox
 Flutter
 Fonts
+Footnotes
 For
 ForEach
 Foreign Key
@@ -202,6 +210,7 @@ Lists
 Logic
 Logical
 Logistic Regression
+Logit
 Loops
 Map
 Machine Learning
@@ -217,6 +226,8 @@ Methods
 Middleware
 Models
 Modules
+Multitask Learning
+MultiTaskLasso
 MySQL
 Naive Bayes
 Natural Language Processing
@@ -262,6 +273,8 @@ Promise
 Programming
 Properties
 Protocols
+Python
+PyTorch
 Queries
 Queues
 Quicksort
@@ -298,17 +311,22 @@ Sorting Algorithms
 Span
 Specificity
 Spread
+SQL
 SQLite
 SQL Server
 Stacks
 Static Site
 Statistics
+Statsmodels
 Storage
+Strict Mode
 Stringr
 Strings
 Structure
 Style
 Subqueries
+Supervised Learning
+Swift
 SwiftUI
 SwiftUI Views
 SwiftUI ViewModifiers
@@ -320,8 +338,10 @@ Tags
 Target
 Technical Interviews
 Templates
+Tensor
 TensorFlow
 Text-To-Image
+Text Processing
 Threads
 Tidyr
 Time
@@ -342,7 +362,9 @@ Union
 Unicode
 Units
 Unix
+Unsupervised Learning
 URL
+Utility Types
 UX
 Validation
 Values

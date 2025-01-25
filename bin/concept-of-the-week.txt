@@ -1,1 +1,1 @@
-content/uiux/concepts/iterative-process/iterative-process.md
+content/swift/concepts/inheritance/inheritance.md
